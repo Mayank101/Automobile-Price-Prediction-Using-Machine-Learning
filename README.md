@@ -1,4 +1,4 @@
-# Car-Price-Prediction-Using-Machine-Learning
+# Automobile-Price-Prediction-Using-Machine-Learning
 
 ### Problem Statement
 
